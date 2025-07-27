@@ -97,12 +97,12 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/cher515/prophecy">
-          Prophecy-Loan-Prediction
+        <a href="https://github.com/cher515/GeoDB-Utilities-in-C">
+          GeoDB-Utilities-in-C
         </a>
       </td>
       <td>
-         Predicts credit risk using machine learning models trained on the Home Credit Default Risk dataset. It uses tools such as Python (FastAPI, LightGBM) for the backend and JavaScript (React, Node.js) for the frontend interface.
+         C project compiles and runs four programs that likely deal with creating and populating a SQLite3-based city database, and displaying country-capital and country-language lists.
       </td>
     </tr>
     <tr>
