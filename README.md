@@ -107,15 +107,13 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/cher515/Auditorium-Linked-List">
-          Auditorium-Linked-List
+        <a href="https://github.com/cher515/inheritance-based-automobile-inventory">
+          inheritance-based-automobile-inventory
         </a>
       </td>
       <td>
-        Dynamic auditorium seat reservation system using a custom 2D linked list instead of arrays to manage seat layouts. It uses object-oriented design, file I/O for input/output, and tracks ticket types (adult, child, senior), seat availability, and sales. The system reads seating maps from files, processes reservations interactively, and generates audit reports at the end.
-      </td>
+        ++ project demonstrates object-oriented programming through a vehicle inventory system. Using class inheritance, it models Cars, Trucks, and SUVs as specialized types of a base Automobile class, showcasing polymorphism, encapsulation, and structured data representation.
     </tr>
-     
   </tbody>
 </table>
 
