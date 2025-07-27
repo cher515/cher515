@@ -21,6 +21,28 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/cher515/prophecy">
+          Prophecy-Loan-Prediction
+        </a>
+      </td>
+      <td>
+         Predicts credit risk using machine learning models trained on the Home Credit Default Risk dataset. It uses tools such as Python (FastAPI, LightGBM) for the backend and JavaScript (React, Node.js) for the frontend interface.
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <td>
+        <a href="https://github.com/cher515/Company-Data">
+          Company-Data
+        </a>
+      </td>
+      <td>
+        Implements a relational database system for managing company operations including personnel, departments, job applications, interviews, salaries, product sales, and vendor relationships. It supports CRUD operations via a Java console using JDBC for real-time data interaction.
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <td>
         <a href="https://github.com/cher515/DisneyLand-Rewards-System">
           DisneyLand-Rewards-System
         </a>
@@ -31,12 +53,12 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/cher515/prophecy">
-          Prophecy-Loan-Prediction
+        <a href="https://github.com/cher515/FlightPathPlanner">
+          FlightPathPlanner
         </a>
       </td>
       <td>
-         Predicts credit risk using machine learning models trained on the Home Credit Default Risk dataset. It uses tools such as Python (FastAPI, LightGBM) for the backend and JavaScript (React, Node.js) for the frontend interface.
+        FlightPath Planner is a Java app that reads flight data and route requests from files, then finds and outputs the best routes based on cost or time. It showcases file I/O, graph traversal, and sorting logic to simulate basic flight planning.
       </td>
     </tr>
     <tr>
