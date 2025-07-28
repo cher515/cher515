@@ -112,8 +112,27 @@
         </a>
       </td>
       <td>
-        ++ project demonstrates object-oriented programming through a vehicle inventory system. Using class inheritance, it models Cars, Trucks, and SUVs as specialized types of a base Automobile class, showcasing polymorphism, encapsulation, and structured data representation.
+        C++ project demonstrates object-oriented programming through a vehicle inventory system. Using class inheritance, it models Cars, Trucks, and SUVs as specialized types of a base Automobile class, showcasing polymorphism, encapsulation, and structured data representation.
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/cher515/SplayTree">
+          SplayTree
+        </a>
+      </td>
+      <td>
+        A Splay Tree is a type of self-adjusting binary search tree that moves recently accessed elements to the root.
+Features include insertion, deletion, search, and tree printing.
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/cher515/AVL-Tree">
+          AVL tree
+        </a>
+      </td>
+      <td>
+        This project implements a self-balancing AVL Tree in Java to store and manage a list of books using their ISBNs. It reads data from a structured text file (booklist.txt) and inserts each book into the AVL tree, automatically rebalancing the tree with rotations as needed.
+      </td>
   </tbody>
 </table>
 
